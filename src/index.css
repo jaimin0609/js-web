@@ -1,0 +1,13 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Add additional global styles for your website */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
